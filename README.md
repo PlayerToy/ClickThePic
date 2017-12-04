@@ -29,4 +29,8 @@ VirusTotal: goo.gl/78nPjh
 SHA-256:	      64493034331d0d1183072ad9196b048992e76708496dbbfe793a256b52adabd7
 File size:	    38.43 KB
 Last analysis:	2017-12-04 15:09:12 UTC
+
+Baidu           Win32.Trojan.WisdomEyes.16070401.9500.9813
+Jiangmin        RiskTool.ProcHack.aj
 ```
+I don't know why these two think its a virus but it's not xD
