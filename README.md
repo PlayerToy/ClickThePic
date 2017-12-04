@@ -1,25 +1,25 @@
-#ClickThePic
+# ClickThePic
 A LudumDare 40 Game.
 
-##Getting Started
+## Getting Started
 Ingame, select your difficulty, and click on start
 ```
 Easy, Normal, Hard, LudumDare
 ```
 
-##Rules
+## Rules
 ```
 Click on a gray tile too see a part of the image beneath the tile.
 After some time, the clicked on image part can lit up Blue, then you have to
 click on it or the image part will vanish beneath the tile again after some time.
 ```
 
-##Goal
+## Goal
 ```
 You have won if you can see the complete Image. If a tile is blue, it still counts.
 ```
 
-##Antivirus Analyse
+## Antivirus Analyse
 Some Computers ask you if you really want to open the file.
 To make sure that nobody thinks its a virus. Here are the Results:
 
